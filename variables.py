@@ -1,10 +1,10 @@
-MY_NAME = "Boubetenikh Naim"
-MY_EMAIL = "naimboubetenikh@gmail.com"
+MY_NAME = "NAME VORNAME"
+MY_EMAIL = "mustter@gmail.com"
 
-SECRET = "hvwh cssy xfpx lwkb"
+SECRET = "hvwh csxy xfpx lwkb"
 
-FILENAME = "test.csv"
+FILENAME = ""
 
-DATUM = "14.05.2023"
+DATUM = "DD.MM.YYYY"
 
 STUDIENGANG = "Gesunheitsmanagement"
